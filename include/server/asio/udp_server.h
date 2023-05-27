@@ -1,10 +1,4 @@
-/*!
-    \file udp_server.h
-    \brief UDP server definition
-    \author Ivan Shynkarenka
-    \date 22.12.2016
-    \copyright MIT License
-*/
+
 
 #ifndef CPPSERVER_ASIO_UDP_SERVER_H
 #define CPPSERVER_ASIO_UDP_SERVER_H

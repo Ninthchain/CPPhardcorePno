@@ -1,10 +1,4 @@
-/*!
-    \file udp_resolver.h
-    \brief UDP resolver definition
-    \author Ivan Shynkarenka
-    \date 08.02.2019
-    \copyright MIT License
-*/
+
 
 #ifndef CPPSERVER_ASIO_UDP_RESOLVER_H
 #define CPPSERVER_ASIO_UDP_RESOLVER_H

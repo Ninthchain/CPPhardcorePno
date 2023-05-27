@@ -1,10 +1,4 @@
-/*!
-    \file timer.h
-    \brief Timer definition
-    \author Ivan Shynkarenka
-    \date 16.08.2018
-    \copyright MIT License
-*/
+
 
 #ifndef CPPSERVER_ASIO_TIMER_H
 #define CPPSERVER_ASIO_TIMER_H

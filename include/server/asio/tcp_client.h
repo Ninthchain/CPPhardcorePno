@@ -1,10 +1,3 @@
-/*!
-    \file tcp_client.h
-    \brief TCP client definition
-    \author Ivan Shynkarenka
-    \date 15.12.2016
-    \copyright MIT License
-*/
 
 #ifndef CPPSERVER_ASIO_TCP_CLIENT_H
 #define CPPSERVER_ASIO_TCP_CLIENT_H

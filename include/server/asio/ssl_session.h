@@ -1,10 +1,4 @@
-/*!
-    \file ssl_session.h
-    \brief SSL session definition
-    \author Ivan Shynkarenka
-    \date 30.12.2016
-    \copyright MIT License
-*/
+
 
 #ifndef CPPSERVER_ASIO_SSL_SESSION_H
 #define CPPSERVER_ASIO_SSL_SESSION_H

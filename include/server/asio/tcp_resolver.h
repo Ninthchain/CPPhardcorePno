@@ -1,10 +1,4 @@
-/*!
-    \file tcp_resolver.h
-    \brief TCP resolver definition
-    \author Ivan Shynkarenka
-    \date 08.02.2019
-    \copyright MIT License
-*/
+
 
 #ifndef CPPSERVER_ASIO_TCP_RESOLVER_H
 #define CPPSERVER_ASIO_TCP_RESOLVER_H

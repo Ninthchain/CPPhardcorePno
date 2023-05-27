@@ -1,10 +1,4 @@
-/*!
-    \file tcp_session.h
-    \brief TCP session definition
-    \author Ivan Shynkarenka
-    \date 14.12.2016
-    \copyright MIT License
-*/
+
 
 #ifndef CPPSERVER_ASIO_TCP_SESSION_H
 #define CPPSERVER_ASIO_TCP_SESSION_H

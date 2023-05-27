@@ -1,10 +1,4 @@
-/*!
-    \file udp_client.h
-    \brief UDP client definition
-    \author Ivan Shynkarenka
-    \date 23.12.2016
-    \copyright MIT License
-*/
+
 
 #ifndef CPPSERVER_ASIO_UDP_CLIENT_H
 #define CPPSERVER_ASIO_UDP_CLIENT_H

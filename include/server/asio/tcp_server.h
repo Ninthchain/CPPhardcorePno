@@ -1,10 +1,4 @@
-/*!
-    \file tcp_server.h
-    \brief TCP server definition
-    \author Ivan Shynkarenka
-    \date 14.12.2016
-    \copyright MIT License
-*/
+
 
 #ifndef CPPSERVER_ASIO_TCP_SERVER_H
 #define CPPSERVER_ASIO_TCP_SERVER_H
