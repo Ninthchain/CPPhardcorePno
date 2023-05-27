@@ -1,10 +1,3 @@
-/*!
-    \file ssl_context.cpp
-    \brief SSL context implementation
-    \author Ivan Shynkarenka
-    \date 12.02.2019
-    \copyright MIT License
-*/
 
 #include "server/asio/ssl_context.h"
 

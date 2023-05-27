@@ -1,10 +1,3 @@
-/*!
-    \file https_client.cpp
-    \brief HTTPS client implementation
-    \author Ivan Shynkarenka
-    \date 12.02.2019
-    \copyright MIT License
-*/
 
 #include "server/http/https_client.h"
 

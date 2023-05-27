@@ -1,10 +1,3 @@
-/*!
-    \file ssl_client.cpp
-    \brief SSL client implementation
-    \author Ivan Shynkarenka
-    \date 01.01.2017
-    \copyright MIT License
-*/
 
 #include "server/asio/ssl_client.h"
 

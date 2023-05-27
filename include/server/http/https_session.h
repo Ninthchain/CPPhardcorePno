@@ -1,10 +1,4 @@
-/*!
-    \file https_session.h
-    \brief HTTPS session definition
-    \author Ivan Shynkarenka
-    \date 30.04.2019
-    \copyright MIT License
-*/
+
 
 #ifndef CPPSERVER_HTTP_HTTPS_SESSION_H
 #define CPPSERVER_HTTP_HTTPS_SESSION_H

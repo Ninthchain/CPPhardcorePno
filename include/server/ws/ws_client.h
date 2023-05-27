@@ -1,10 +1,3 @@
-/*!
-    \file ws_client.h
-    \brief WebSocket client definition
-    \author Ivan Shynkarenka
-    \date 22.05.2019
-    \copyright MIT License
-*/
 
 #ifndef CPPSERVER_HTTP_WS_CLIENT_H
 #define CPPSERVER_HTTP_WS_CLIENT_H

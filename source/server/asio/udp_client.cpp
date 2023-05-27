@@ -1,10 +1,3 @@
-/*!
-    \file udp_client.cpp
-    \brief UDP client implementation
-    \author Ivan Shynkarenka
-    \date 23.12.2016
-    \copyright MIT License
-*/
 
 #include "server/asio/udp_client.h"
 

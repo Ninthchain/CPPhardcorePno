@@ -1,10 +1,4 @@
-/*!
-    \file ssl_session.cpp
-    \brief SSL session implementation
-    \author Ivan Shynkarenka
-    \date 30.12.2016
-    \copyright MIT License
-*/
+
 
 #include "server/asio/ssl_session.h"
 #include "server/asio/ssl_server.h"

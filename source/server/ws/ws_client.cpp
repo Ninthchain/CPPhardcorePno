@@ -1,10 +1,4 @@
-/*!
-    \file ws_client.cpp
-    \brief WebSocket client implementation
-    \author Ivan Shynkarenka
-    \date 22.05.2019
-    \copyright MIT License
-*/
+
 
 #include "server/ws/ws_client.h"
 

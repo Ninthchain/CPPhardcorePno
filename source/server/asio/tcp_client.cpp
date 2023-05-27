@@ -1,10 +1,4 @@
-/*!
-    \file tcp_client.cpp
-    \brief TCP client implementation
-    \author Ivan Shynkarenka
-    \date 15.12.2016
-    \copyright MIT License
-*/
+
 
 #include "server/asio/tcp_client.h"
 

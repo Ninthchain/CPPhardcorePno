@@ -1,10 +1,3 @@
-/*!
-    \file https_server.cpp
-    \brief HTTPS server implementation
-    \author Ivan Shynkarenka
-    \date 30.04.2019
-    \copyright MIT License
-*/
 
 #include "server/http/https_server.h"
 

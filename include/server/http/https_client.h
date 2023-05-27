@@ -1,10 +1,4 @@
-/*!
-    \file https_client.h
-    \brief HTTPS client definition
-    \author Ivan Shynkarenka
-    \date 12.02.2019
-    \copyright MIT License
-*/
+
 
 #ifndef CPPSERVER_HTTP_HTTPS_CLIENT_H
 #define CPPSERVER_HTTP_HTTPS_CLIENT_H

@@ -1,10 +1,3 @@
-/*!
-    \file udp_resolver.cpp
-    \brief UDP resolver implementation
-    \author Ivan Shynkarenka
-    \date 08.02.2019
-    \copyright MIT License
-*/
 
 #include "server/asio/udp_resolver.h"
 

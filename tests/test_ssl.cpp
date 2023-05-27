@@ -1,6 +1,4 @@
-//
-// Created by Ivan Shynkarenka on 01.01.2017
-//
+
 
 #include "test.h"
 

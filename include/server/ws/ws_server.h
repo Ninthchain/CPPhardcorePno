@@ -1,10 +1,4 @@
-/*!
-    \file ws_server.h
-    \brief WebSocket server definition
-    \author Ivan Shynkarenka
-    \date 27.05.2019
-    \copyright MIT License
-*/
+
 
 #ifndef CPPSERVER_HTTP_WS_SERVER_H
 #define CPPSERVER_HTTP_WS_SERVER_H

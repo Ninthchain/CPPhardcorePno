@@ -1,10 +1,3 @@
-/*!
-    \file udp_server.cpp
-    \brief UDP server implementation
-    \author Ivan Shynkarenka
-    \date 22.12.2016
-    \copyright MIT License
-*/
 
 #include "server/asio/udp_server.h"
 

@@ -1,6 +1,3 @@
-//
-// Created by Ivan Shynkarenka on 02.05.2019
-//
 
 #include "server/asio/service.h"
 #include "server/http/https_client.h"

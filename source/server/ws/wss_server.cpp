@@ -1,10 +1,4 @@
-/*!
-    \file wss_server.cpp
-    \brief WebSocket secure server implementation
-    \author Ivan Shynkarenka
-    \date 27.05.2019
-    \copyright MIT License
-*/
+
 
 #include "server/ws/wss_server.h"
 

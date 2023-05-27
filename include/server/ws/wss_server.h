@@ -1,10 +1,4 @@
-/*!
-    \file wss_server.h
-    \brief WebSocket secure server definition
-    \author Ivan Shynkarenka
-    \date 28.05.2019
-    \copyright MIT License
-*/
+
 
 #ifndef CPPSERVER_HTTP_WSS_SERVER_H
 #define CPPSERVER_HTTP_WSS_SERVER_H

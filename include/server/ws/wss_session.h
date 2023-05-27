@@ -1,10 +1,4 @@
-/*!
-    \file wss_session.h
-    \brief WebSocket secure session definition
-    \author Ivan Shynkarenka
-    \date 28.05.2019
-    \copyright MIT License
-*/
+
 
 #ifndef CPPSERVER_HTTP_WSS_SESSION_H
 #define CPPSERVER_HTTP_WSS_SESSION_H

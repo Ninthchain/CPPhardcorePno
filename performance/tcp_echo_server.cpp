@@ -1,6 +1,4 @@
-//
-// Created by Ivan Shynkarenka on 15.03.2017
-//
+
 
 #include "server/asio/service.h"
 #include "server/asio/tcp_server.h"

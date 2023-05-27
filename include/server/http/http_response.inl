@@ -1,10 +1,4 @@
-/*!
-    \file http_response.inl
-    \brief HTTP response inline implementation
-    \author Ivan Shynkarenka
-    \date 15.02.2019
-    \copyright MIT License
-*/
+
 
 #if defined(FMT_VERSION)
 template <> struct fmt::formatter<CppServer::HTTP::HTTPResponse> : ostream_formatter {};

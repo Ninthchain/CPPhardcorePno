@@ -1,10 +1,4 @@
-/*!
-    \file http_request.h
-    \brief HTTP request definition
-    \author Ivan Shynkarenka
-    \date 07.02.2019
-    \copyright MIT License
-*/
+
 
 #ifndef CPPSERVER_HTTP_HTTP_REQUEST_H
 #define CPPSERVER_HTTP_HTTP_REQUEST_H

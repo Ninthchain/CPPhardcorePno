@@ -1,10 +1,3 @@
-/*!
-    \file service.cpp
-    \brief Asio service implementation
-    \author Ivan Shynkarenka
-    \date 16.12.2016
-    \copyright MIT License
-*/
 
 #include "server/asio/service.h"
 

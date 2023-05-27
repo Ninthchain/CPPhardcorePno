@@ -1,10 +1,4 @@
-/*!
-    \file tcp_server.cpp
-    \brief TCP server implementation
-    \author Ivan Shynkarenka
-    \date 14.12.2016
-    \copyright MIT License
-*/
+
 
 #include "server/asio/tcp_server.h"
 

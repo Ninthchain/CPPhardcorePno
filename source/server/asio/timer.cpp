@@ -1,10 +1,3 @@
-/*!
-    \file timer.cpp
-    \brief Timer implementation
-    \author Ivan Shynkarenka
-    \date 16.08.2018
-    \copyright MIT License
-*/
 
 #include "server/asio/timer.h"
 

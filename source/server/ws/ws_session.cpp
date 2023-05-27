@@ -1,10 +1,4 @@
-/*!
-    \file ws_session.cpp
-    \brief WebSocket session implementation
-    \author Ivan Shynkarenka
-    \date 27.05.2019
-    \copyright MIT License
-*/
+
 
 #include "server/ws/ws_session.h"
 #include "server/ws/ws_server.h"

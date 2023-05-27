@@ -1,10 +1,3 @@
-/*!
-    \file https_session.cpp
-    \brief HTTPS session implementation
-    \author Ivan Shynkarenka
-    \date 30.04.2019
-    \copyright MIT License
-*/
 
 #include "server/http/https_session.h"
 #include "server/http/https_server.h"

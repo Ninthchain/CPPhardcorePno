@@ -1,10 +1,4 @@
-/*!
-    \file ws.cpp
-    \brief WebSocket C++ Library implementation
-    \author Ivan Shynkarenka
-    \date 22.05.2019
-    \copyright MIT License
-*/
+
 
 #include "server/ws/ws.h"
 

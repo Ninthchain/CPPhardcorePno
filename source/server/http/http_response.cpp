@@ -1,10 +1,3 @@
-/*!
-    \file http_response.cpp
-    \brief HTTP response implementation
-    \author Ivan Shynkarenka
-    \date 15.02.2019
-    \copyright MIT License
-*/
 
 #include "server/http/http_response.h"
 

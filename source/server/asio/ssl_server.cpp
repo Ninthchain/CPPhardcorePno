@@ -1,10 +1,4 @@
-/*!
-    \file ssl_server.cpp
-    \brief SSL server implementation
-    \author Ivan Shynkarenka
-    \date 30.12.2016
-    \copyright MIT License
-*/
+
 
 #include "server/asio/ssl_server.h"
 

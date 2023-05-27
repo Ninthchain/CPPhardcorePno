@@ -1,10 +1,4 @@
-/*!
-    \file http_client.cpp
-    \brief HTTP client implementation
-    \author Artem Simonov
-    \date 05.27.23
-    \copyright MIT License
-*/
+
 
 #include <server/http/https_client.h>
 

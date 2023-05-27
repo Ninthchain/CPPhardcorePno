@@ -1,10 +1,3 @@
-/*!
-    \file ws.h
-    \brief WebSocket C++ Library definition
-    \author Ivan Shynkarenka
-    \date 22.05.2019
-    \copyright MIT License
-*/
 
 #ifndef CPPSERVER_WS_H
 #define CPPSERVER_WS_H

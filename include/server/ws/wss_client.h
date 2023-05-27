@@ -1,10 +1,3 @@
-/*!
-    \file wss_client.h
-    \brief WebSocket secure client definition
-    \author Ivan Shynkarenka
-    \date 23.05.2019
-    \copyright MIT License
-*/
 
 #ifndef CPPSERVER_HTTP_WSS_CLIENT_H
 #define CPPSERVER_HTTP_WSS_CLIENT_H

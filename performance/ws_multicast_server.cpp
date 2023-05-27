@@ -1,6 +1,4 @@
-//
-// Created by Ivan Shynkarenka on 28.05.2019
-//
+
 
 #include "server/asio/service.h"
 #include "server/ws/ws_server.h"

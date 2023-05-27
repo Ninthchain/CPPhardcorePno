@@ -1,10 +1,4 @@
-/*!
-    \file http_client.h
-    \brief HTTP client definition
-    \author Ivan Shynkarenka
-    \date 08.02.2019
-    \copyright MIT License
-*/
+
 
 #ifndef CPPSERVER_HTTP_HTTP_CLIENT_H
 #define CPPSERVER_HTTP_HTTP_CLIENT_H

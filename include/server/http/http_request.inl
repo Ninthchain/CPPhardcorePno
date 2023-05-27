@@ -1,10 +1,4 @@
-/*!
-    \file http_request.inl
-    \brief HTTP request inline implementation
-    \author Ivan Shynkarenka
-    \date 07.02.2019
-    \copyright MIT License
-*/
+
 
 #if defined(FMT_VERSION)
 template <> struct fmt::formatter<CppServer::HTTP::HTTPRequest> : ostream_formatter {};

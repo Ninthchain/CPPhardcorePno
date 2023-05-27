@@ -1,10 +1,4 @@
-/*!
-    \file http_response.h
-    \brief HTTP response definition
-    \author Ivan Shynkarenka
-    \date 15.02.2019
-    \copyright MIT License
-*/
+
 
 #ifndef CPPSERVER_HTTP_HTTP_RESPONSE_H
 #define CPPSERVER_HTTP_HTTP_RESPONSE_H
