@@ -1,0 +1,2 @@
+# CPPhardcorePno
+YA ZAEBALSA ETO DELAT
